@@ -7,10 +7,7 @@ This project aims to predict housing prices in Boston using machine learning tec
 - Dataset
 - Features
 - Methods Used
-- Installation
-- Usage
 - Results
-- License
 
 # Dataset
 The dataset used in this project is sourced from the UCI Machine Learning Repository and contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. This dataset was originally provided by Harrison, D. and Rubinfeld, D.L. in 1978.
